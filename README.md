@@ -3,8 +3,11 @@
 language : python
 
     Run ผ่าน IDE Online ได้ที่
-    
-    https://trinket.io/python/b27797b277
+  <html>
+       <body>
+               <a href="index.html">Run ผ่าน IDE Online คลิ๊ก</a><p> <https://trinket.io/python/b27797b277>       
+       </body>
+  </html>
     
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
